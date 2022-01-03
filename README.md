@@ -1,4 +1,4 @@
-**Tietokantaohjelmointi 2021**
+**Tietokantaohjelmointi kevät 2021**
 
 **##Ryhmä 2**
 Katrin Dieter, Saija Seppä, Kaisa Sormunen
